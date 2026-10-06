@@ -3,11 +3,11 @@
 ## Description
 This project demonstrates a full-stack web application with a Flask server, a Spring Boot server, and a React frontend. The Flask server provides functionalities of scanning a pdf consisting voters data issued by government and storing the extracted data into database, the Spring Boot server implements additional functionality and interacts with databases, and the React frontend provides an interactive user interface.
 
-Frontend (React) Code: https://github.com/The-Invaders-7/ElectionMitraClient
+Frontend (React) Code: https://github.com/iatharva6119/ElectionMitraClient
 
-Backend (Spring Boot) Code: https://github.com/The-Invaders-7/Election-Project-server
+Backend (Spring Boot) Code: https://github.com/iatharva6119/Election-Project-server
 
-AI based backend (Flask) Code: https://github.com/The-Invaders-7/ElectionMitraColab
+AI based backend (Flask) Code: https://github.com/iatharva6119/ElectionMitraColab
 
 ## Problem Statement
 
